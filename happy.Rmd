@@ -1,7 +1,8 @@
 ---
 title: "Happy"
 author: "Gary Ritchie"
-output: html_document
+date: "January 14, 2017"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
